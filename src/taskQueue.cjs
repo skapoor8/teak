@@ -1,4 +1,4 @@
-var Queue = require('./queue.js');
+var Queue = require('./queue.cjs');
 
 class TaskQueue extends Queue {
     constructor() {
