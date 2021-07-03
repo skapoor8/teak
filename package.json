@@ -1,0 +1,15 @@
+{
+  "name": "teak",
+  "version": "1.0.0",
+  "description": "An async task queue",
+  "main": "taskQueue.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skapoor8/teak"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "Siddharth Kapoor",
+  "license": "ISC"
+}
