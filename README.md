@@ -11,7 +11,7 @@ npm i @skapoor8/teak
 
 Use in node.js:
 ```javascript
-const {TaskQueue} = require('@skapoor8/teak');
+const TaskQueue = require('@skapoor8/teak');
 
 function main() {
     var tq = new TaskQueue();
@@ -27,6 +27,15 @@ function main() {
     });
 }
 main();
+```
+
+Output in console:
+```
+Start time: 2021-07-03T21:04:53.536Z
+1000 seconds passed. Current time: 2021-07-03T21:04:54.548Z
+5000 seconds passed. Current time: 2021-07-03T21:04:59.551Z
+10000 seconds passed. Current time: 2021-07-03T21:05:09.552Z
+1000 seconds passed. Current time: 2021-07-03T21:05:10.556Z
 ```
 
 ## Use-Cases
