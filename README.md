@@ -1,5 +1,5 @@
 # Teak.js
-https://img.shields.io/npm/v/@skapoor8/teak
+![npm (scoped)](https://img.shields.io/npm/v/@skapoor8/teak)
 
 A simple async task queue. Preserve order of async tasks.
 
