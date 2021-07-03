@@ -1,6 +1,6 @@
 {
   "name": "@skapoor8/teak",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An async task queue",
   "main": "./src/taskQueue.cjs",
   "repository": {
